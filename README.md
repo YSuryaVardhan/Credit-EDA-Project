@@ -1,1 +1,1 @@
-# Credit-EDA-Prooject
+# Credit-EDA-Project
